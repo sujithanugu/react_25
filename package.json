@@ -1,0 +1,26 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "new beginning",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujithanugu/react_25.git"
+  },
+  "keywords": [
+    "new",
+    "beginning"
+  ],
+  "author": "Sujith Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujithanugu/react_25/issues"
+  },
+  "homepage": "https://github.com/sujithanugu/react_25#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
